@@ -3,7 +3,7 @@ service: sls-cognito-backend
 provider:
   name: aws
   runtime: nodejs8.10
-  profile: student1
+  profile: fsmgmt
 
 functions:
   hello:
